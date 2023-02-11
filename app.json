@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react_native_nft_2",
-    "slug": "react_native_nft_2",
+    "name": "ACE Project NFT Store",
+    "slug": "ace_project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
